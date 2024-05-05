@@ -1,0 +1,1 @@
+pyinstaller -F --noconsole --icon=icon.ico -n Bot main.py
